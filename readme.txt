@@ -1,9 +1,9 @@
 Neural Network Visualizer - 15-112 Term Project by Madden Moore
 
 Description:
-My term project involves a neural network made with no external amchine learning modules for the purpose of classifying breast tumors as benign or malignant
+My term project involves a neural network made with no external machine learning modules for the purpose of classifying breast tumors as benign or malignant
 The UI for this project allows the user to customize input paramaters, see how well the model can classify the data with their input paramaters, and track results over multiple model runs
-The UI also provides a shallow explanation of how a neural network works.
+The UI also provides a shallow explanation of how a neural network works
 
 How to run:
 The user should run "userinterface.py" which will create a popup which is the source of the function
